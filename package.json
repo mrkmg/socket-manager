@@ -1,0 +1,25 @@
+{
+  "name": "socket-manager",
+  "version": "0.1.0",
+  "description": "Manage Sockets in an easy way",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkmg/socket-manager.git"
+  },
+  "keywords": [
+    "socketio",
+    "manager",
+    "socket",
+    "socket-io"
+  ],
+  "author": "Kevin Gravier (kevin@mrkmg.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrkmg/socket-manager/issues"
+  },
+  "homepage": "https://github.com/mrkmg/socket-manager#readme"
+}
